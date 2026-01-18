@@ -1,0 +1,1 @@
+record PizzaRecord(String topping) {}
