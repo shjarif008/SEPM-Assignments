@@ -1,0 +1,5 @@
+ArrayList initial: 10
+ArrayList after growth: 15
+---
+Vector initial: 10
+Vector after growth: 20
